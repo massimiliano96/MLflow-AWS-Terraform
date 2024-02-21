@@ -1,0 +1,1 @@
+![architecture](/images/tracking-setup-overview.png)
