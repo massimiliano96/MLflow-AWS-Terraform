@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 module "my_ami" {
-    source = "../latest-ubuntu-ami"
+    source = "./latest-ubuntu-ami"
 }
 
 resource "random_pet" "pet_name" {
